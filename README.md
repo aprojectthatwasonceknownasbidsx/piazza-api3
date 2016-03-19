@@ -1,15 +1,5 @@
-### Piazza Data Analysis
+# Piazza API Python3 Port
 
-There are three components of Piazza Data Analysis
-- Scraper:
-	(Mostly Implemented)
-	Fetches all data from Piazza class and stores to SQLite (Easily changeable)
+ported by [Dibya Ghosh](http://dibya.xyz)
 
-
-Analysis:
-	(Unimplemented)
-	Processes data from SQLite through textual analysis
-
-Visualization:
-	(Unimplemented)
-	Shows analysis results on web page
+[original Piazza API](https://github.com/hfaran/piazza-api) by Hfaran
